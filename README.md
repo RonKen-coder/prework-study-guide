@@ -1,4 +1,4 @@
-# <Preliminary Study Manual Website>
+# Preliminary Study Manual Website
 
 ## Description
 
